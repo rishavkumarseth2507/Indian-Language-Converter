@@ -1,0 +1,6 @@
+streamlit
+langchain-groq
+python-dotenv
+speechrecognition
+streamlit-mic-recorder
+pyperclip
