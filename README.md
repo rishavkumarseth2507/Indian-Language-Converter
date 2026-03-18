@@ -107,7 +107,7 @@ GROQ_API_KEY=your_groq_api_key_here
 ## ▶️ Run the Application
 
 ```bash
-streamlit run test.py
+streamlit run app.py
 ```
 
 The app will open in your browser:
